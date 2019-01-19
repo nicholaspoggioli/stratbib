@@ -1,6 +1,4 @@
 # stratbib
-Bibliometric analysis of published business and strategic management research
-
 This repository contains bibliometric data from five journals relevant to strategic management research.
 
 The journals are Strategic Management Journal (SMJ), Administrative Science Quarterly (ASQ), Management Science (MGMT SCIENCE), Academy of Maangement Journal (AMJ), and Organization Science (ORG SCI).
