@@ -1,0 +1,85 @@
+This file describes the creation using VOSviewer of several bibliometric visualizations of citations in all articles from the following journals relevant to strategy research:
+- Strategic Management Journal
+- Academy of Management Journal
+- Academy of Management Review
+- Administrative Science Quarterly
+- Management Science
+- Organization Science
+
+Data: All articles published in SMJ, AMJ, AMR, ASQ, Management Science, and Organization Science from the beginning of their time being indexed by Web of Science to January 17, 2019. (See below for list of all filenames used to create the visualization).
+
+VOSviewer version 1.6.10
+
+Type of analysis: Co-citation
+Relatedness of two items determined by the number of times they are cited in the same document.
+
+Counting method: Fractional counting
+
+Unit of analysis: Cited references
+
+Minimum number of citations to a cited reference: 75 ("Of 292817 cited references, 574 meet this threshold.")
+
+Number of cited references to be selected: 574
+
+ANALYSIS
+Method: Association
+
+Layout:
+Attraction: 2
+Repulsion: 1
+Advanced Parameters:
+Random starts: 1
+Max. iterations: 1000
+Initial step size: 1
+Step size reduction: 0.75
+Step size convergence: 0.001
+Random seed: 0
+
+Clustering:
+Advanced Parameters:
+Random starts: 40
+Iterations: 10
+Random seed: 0
+
+VISUALIZATION
+Visualization Weights: Total link strength
+
+Lines Min. strength: 5
+
+Lines Max. lines: 5000
+
+
+Filenames:
+20190103-asq-1-500.txt
+20190103-asq-1001-1412.txt
+20190103-asq-501-1000.txt
+20190117-amj-1001-1500.txt
+20190117-amj-1-500.txt
+20190117-amj-1501-2000.txt
+20190117-amj-2001-2500.txt
+20190117-amj-2501-2627.txt
+20190117-amj-501-1000.txt
+20190117-amr-1001-1054.txt
+20190117-amr-1-500.txt
+20190117-amr-501-1000.txt
+20190117-mgmt-science-1001-1500.txt
+20190117-mgmt-science-1-500.txt
+20190117-mgmt-science-1501-2000.txt
+20190117-mgmt-science-2001-2500.txt
+20190117-mgmt-science-2501-3000.txt
+20190117-mgmt-science-3001-3500.txt
+20190117-mgmt-science-3501-4000.txt
+20190117-mgmt-science-4001-4500.txt
+20190117-mgmt-science-4501-5000.txt
+20190117-mgmt-science-5001-5500.txt
+20190117-mgmt-science-501-1000.txt
+20190117-mgmt-science-5501-6000.txt
+20190117-mgmt-science-6001-6168.txt
+20190117-org-sci-1001-1496.txt
+20190117-org-sci-1-500.txt
+20190117-org-sci-501-1000.txt
+20190117-smj-1001-1500.txt
+20190117-smj-1-500.txt
+20190117-smj-1501-2000.txt
+20190117-smj-2001-2353.txt
+20190117-smj-501-1000.txt
